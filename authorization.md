@@ -1,2 +1,1 @@
-This package is only authorized to '上海芯与网络科技有限公司' for use, and shall not be directly resold to other unit. Other companies or individuals have no right to use it, otherwise, it shall be deemed as infringement.
-If you are not a member of the authorized company, please visit our official website [FormMaking](http://form.making.link) to purchase the authorization. You are welcome to report the source of this package 
+
